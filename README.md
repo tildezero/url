@@ -8,4 +8,5 @@ it doesnt work very well
 
 ### usage
 /{slug} - redirects you to the given page
+
 /shorten?short=SHORTURL&long=LONGURL&password=PASSWORD - shortens a given url
